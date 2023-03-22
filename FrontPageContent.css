@@ -1,0 +1,23 @@
+.wrapper-frontpage{
+    height: 80vh;
+    background-image: url("https://thumbs.dreamstime.com/b/binary-code-background-digital-data-stream-matrix-vector-illustration-isolated-white-background-binary-code-background-digital-157447268.jpg");
+    background-color: darkgray;
+    flex-direction: column;
+    padding: 36vh;
+    align-items: center;
+    display: flex;
+
+}
+.get-started-button{
+    padding: 20px;
+    background-color: black;
+    background-origin: padding-box;
+    border: 10px;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: aliceblue;
+    border-width: 2px;
+    letter-spacing: 4px;
+
+}
